@@ -1,0 +1,16 @@
+- Goal: help farmers to get their produce to various venues. Solution: interactive map
+- Goal: easier access to live bus routes and times. Solution: mobile app to access sunTran bus information
+- Goal: increase awareness about issues of peace. Solution: website/virtual museum of peace, sustainability, and justice
+- Goal: re-purpose 2 golf courses next to the Reid Park. Solution: platform for city-wide conversation
+- Goal: outcomes based youth development system. Solution: website to improve marketing of this existing program
+- Goal: improve fundraising for youth organizations. Solution: design online platform
+- Goal: photo challenge. Every day take a picture of something that you can donate. In the end of the month you will have 30 items to donate. Solution: app
+- Goal: fight the problem of texting while driving, especially among teenagers. Solution: app to disable texting. If you still try to use your turned-off phone, you will lose redeemable credit for that route. Parents can track those credits and reward good behavior
+- Goal: connect traffic violators with community service projects that they can do instead of paying a ticket.  Solution: add social game component
+- Goal: create a stronger network of neighborhood gardens. Solution: maps database of local gardeners 
+- Goal: support veterans through fitness activities in order to fight stress and depression. Solution: develop strategy and marketing for this project
+- Goal: make reading more engaging. Solution: create platform for mapping events in the book to the real map 
+- Goal: automate connection between physical activities, which are shared socially, and donation to a cause/organization. Solution: charity walkathon online
+- Goal: local Yelp. Solution: mobile travel app through which you can map your experience
+- Goal: affordable housing for targetted groups. Solution: webpage to improve targetted communication
+- Goal: improve connection within community. Solution: like a dating app, but uses bluetooth instead (does not use GPS)
